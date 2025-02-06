@@ -1,0 +1,9 @@
+Hello 
+There are Problems I found in this code block
+
+1. Missing blockchain property in interface WalletBalance
+2. We can use extends in interface FormattedWalletBalance 
+3. lhsPriority is not defined
+4. Use Ternary Operator to sorted logic code
+5. Refactored formattedBalances ensuring type safety
+
